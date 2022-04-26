@@ -1,3 +1,3 @@
-# Netflix feito com HTML e CSS puro.
+# Clone da tela inicial da Netflix, feito com HTML e CSS puro.
 
  

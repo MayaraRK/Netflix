@@ -1,3 +1,3 @@
-# Netflix
+# Netflix feito com HTML e CSS puro.
 
-# Feito com HTML e CSS puro.
+ 
